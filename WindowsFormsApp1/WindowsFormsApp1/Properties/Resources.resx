@@ -118,25 +118,28 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="clasbgG" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\bin\Debug\clasbgG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="clasbgB" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\clasbgB.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="peopleClip" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\peopleClip.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="clasbgB" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\bin\Debug\clasbgB.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="clasbgP" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\clasbgP.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="clasbgG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\clasbgG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="ModB" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\ModB.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="ModP" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\ModP.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="ModG" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\ModG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="ModP" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\bin\Debug\ModP.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="gunnhacks" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\gunnhacks.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
